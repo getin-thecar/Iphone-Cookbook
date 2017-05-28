@@ -14,7 +14,7 @@
 
 分别输入服务器地址、端口号、密码、选择加密方式   
 
-# (登录Instagram加getin_thecar，获取免费帐号)
+#### ( 登录 Instagram 加 getin_thecar，获取免费帐号 )
 
 ![输入配置](https://github.com/emerson666/iphonetool/blob/master/images/set5.jpg)
 
