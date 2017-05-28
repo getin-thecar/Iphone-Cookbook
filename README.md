@@ -1,4 +1,4 @@
-# Shadowrocket(小火箭)使用配置说明
+# Iphone手机使用步骤 
 
 以下为使用配置说明步骤：
 
@@ -12,7 +12,9 @@
 
 ![控制界面](https://github.com/emerson666/iphonetool/blob/master/images/cpanel.png)    ![添加配置](https://github.com/emerson666/iphonetool/blob/master/images/do.jpg)
 
-分别输入服务器地址、端口号、密码、选择加密方式   (登录Instagram加getin_thecar，获取免费帐号)
+分别输入服务器地址、端口号、密码、选择加密方式   
+
+# (登录Instagram加getin_thecar，获取免费帐号)
 
 ![输入配置](https://github.com/emerson666/iphonetool/blob/master/images/set5.jpg)
 
